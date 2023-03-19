@@ -1,0 +1,9 @@
+S -> AA
+S -> BC
+S -> $
+A -> AA
+A -> BC
+B -> a
+C -> AD
+C -> b
+D -> b
