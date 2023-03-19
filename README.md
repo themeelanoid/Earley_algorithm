@@ -1,4 +1,4 @@
-# formal_prac
+# Earley algorithm implementation / Formal Languages course project
 ## Few words to say...
 This is yet another implementation of __Earley algorithm__, which checks, whether given word can be derived by given grammar or not.
 
